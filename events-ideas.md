@@ -22,8 +22,10 @@ https://supertuxkart.net/Main_Page
 ## Linux Gaming
 Steam and Proton
 Open Source Games (Wesnoth, SuperTuxKart, Nexuiz derivatives, etc)
+https://www.wesnoth.org/
 
 ## Intro to Python
+https://www.python.org/
 
 ## Intro to HTML/CSS
 
@@ -43,13 +45,25 @@ https://aframe.io/
 ## Git conflict party
 Everyone tries to edit an existing open soruce visual novel at once.
 
+## Editing Wikipedia and Sister Projects
+
 ## Open Source on Campus
-Canvas, Wordpress are open source programs campus relies on. 
+Canvas, Apache, Wordpress are open source programs campus relies on. 
 Audacity, Visual Studio Code, and other programs are also commonly installed on lab computers.
+http://blogs.bgsu.edu/
+http://personal.bgsu.edu/
 
 ## Intro to Arduino
+https://www.arduino.cc/
 
 ## Intro to Raspberry Pi
+* Differences between ARM and x86 linux
+https://www.raspberrypi.org/
 
 ## Open Source Typography and You
 Introduction to open source typefaces, and why you would want to use them.
+https://www.theleagueofmoveabletype.com/
+
+## Free your Android
+* F-Droid https://f-droid.org/en/
+* Liniage https://lineageos.org/
