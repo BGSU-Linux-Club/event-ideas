@@ -46,3 +46,10 @@ Everyone tries to edit an existing open soruce visual novel at once.
 ## Open Source on Campus
 Canvas, Wordpress are open source programs campus relies on. 
 Audacity, Visual Studio Code, and other programs are also commonly installed on lab computers.
+
+## Intro to Arduino
+
+## Intro to Raspberry Pi
+
+## Open Source Typography and You
+Introduction to open source typefaces, and why you would want to use them.
