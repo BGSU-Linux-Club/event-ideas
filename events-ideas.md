@@ -26,6 +26,7 @@ Open Source Games (Wesnoth, SuperTuxKart, Nexuiz derivatives, etc)
 
 ## Intro to Python
 * [Python Website](https://www.python.org/)
+* [Learn Python 3 the Hard Way](https://www.pearson.com/us/higher-education/program/Shaw-Learn-Python-3-the-Hard-Way-A-Very-Simple-Introduction-to-the-Terrifyingly-Beautiful-World-of-Computers-and-Code/PGM1768668.html) [Library Link](https://learning.oreilly.com/library/view/learn-python-3/9780134693866/)
 
 ## Intro to HTML/CSS
 
@@ -33,6 +34,8 @@ Open Source Games (Wesnoth, SuperTuxKart, Nexuiz derivatives, etc)
 OSM Geography Awareness week is November 10th-16th.
 * [OpenStreetMap](https://www.openstreetmap.org/#map=15/41.3737/-83.6502)
 * [OSM Geography Awareness Week](http://osmgeoweek.org/)
+* [Missing Maps](https://www.missingmaps.org/)
+* [YouthMappers](https://www.youthmappers.org/)
 * [Humanitarian OpenStreetMap Team HOT](https://www.hotosm.org/)
 * [Overpass Turbo query tool](https://overpass-turbo.eu/)
 
@@ -49,6 +52,10 @@ Only a basic knowledge of HTML is required to use it.
 Everyone tries to edit an existing open soruce visual novel at once.
 
 ## Editing Wikipedia and Sister Projects
+* [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+* [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page)
+* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+* [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 
 ## Open Source on Campus
 Canvas, Apache, Wordpress are open source programs campus relies on. 
@@ -58,6 +65,7 @@ Audacity, Visual Studio Code, and other programs are also commonly installed on 
 
 ## Intro to Arduino
 * [Arduino](https://www.arduino.cc/)
+* [The Manga Guide to Eletricity](https://nostarch.com/mg_electricity.htm) [Library Link](https://learning.oreilly.com/library/view/the-manga-guide/9781593271978/)
 
 ## Intro to Raspberry Pi
 * Differences between ARM and x86 linux
@@ -70,6 +78,9 @@ Introduction to open source typefaces, and why you would want to use them.
 ## Free your Android
 * [F-Droid](https://f-droid.org/en/)
 * [Liniage](https://lineageos.org/)
+
+## Code and Art
+* [Processing Language](https://processing.org/)
 
 # Lobby Student Government
 * [Undergraduate Student Government](https://www.bgsu.edu/student-government/undergraduate-student-government.html)
