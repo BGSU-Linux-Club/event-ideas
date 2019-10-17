@@ -40,7 +40,7 @@ https://www.renpy.org/
 ## Intro to Virtual Reality development with A-Frame
 A-Frame is a js library that was originally created by Mozilla, and still backed by them.
 Only a basic knowledge of HTML is required to use it.
-https://aframe.io/
+* [A-Frame](https://aframe.io/0
 
 ## Git conflict party
 Everyone tries to edit an existing open soruce visual novel at once.
@@ -50,22 +50,24 @@ Everyone tries to edit an existing open soruce visual novel at once.
 ## Open Source on Campus
 Canvas, Apache, Wordpress are open source programs campus relies on. 
 Audacity, Visual Studio Code, and other programs are also commonly installed on lab computers.
-http://blogs.bgsu.edu/
-http://personal.bgsu.edu/
+* [BGSU Wordpress Instalation](http://blogs.bgsu.edu/)
+* [BGSU Apache Instalation](http://personal.bgsu.edu/)
 
 ## Intro to Arduino
-https://www.arduino.cc/
+* [Arduino](https://www.arduino.cc/)
 
 ## Intro to Raspberry Pi
 * Differences between ARM and x86 linux
-https://www.raspberrypi.org/
+* [Raspberry Pi](https://www.raspberrypi.org/)
 
 ## Open Source Typography and You
 Introduction to open source typefaces, and why you would want to use them.
-https://www.theleagueofmoveabletype.com/
+* [The League of Movable Type](https://www.theleagueofmoveabletype.com/) An open type foundry.
 
 ## Free your Android
 * [F-Droid](https://f-droid.org/en/)
 * [Liniage](https://lineageos.org/)
 
 # Lobby Student Government
+* [Undergraduate Student Government](https://www.bgsu.edu/student-government/undergraduate-student-government.html)
+* [Graduate Student Senate]()
