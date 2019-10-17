@@ -14,33 +14,36 @@ Common bash tips students don't know
 
 
 ## SuperTuxKart Party
-SuperTuxKart is a kart racing game for
-https://supertuxkart.net/Main_Page
+SuperTuxKart is a kart racing game.
+* [SuperTuxKart](https://supertuxkart.net/Main_Page)
 
 ## Advanced Git
 
 ## Linux Gaming
 Steam and Proton
 Open Source Games (Wesnoth, SuperTuxKart, Nexuiz derivatives, etc)
-https://www.wesnoth.org/
+* [The Battle for Wesnoth](https://www.wesnoth.org/)
 
 ## Intro to Python
-https://www.python.org/
+* [Python Website](https://www.python.org/)
 
 ## Intro to HTML/CSS
 
 ## OpenStreetMap
-OSM Geography Awarenes week is November 10th-16th.
-http://osmgeoweek.org/
+OSM Geography Awareness week is November 10th-16th.
+* [OpenStreetMap](https://www.openstreetmap.org/#map=15/41.3737/-83.6502)
+* [OSM Geography Awareness Week](http://osmgeoweek.org/)
+* [Humanitarian OpenStreetMap Team HOT](https://www.hotosm.org/)
+* [Overpass Turbo query tool](https://overpass-turbo.eu/)
 
 ## Intro to game programming with Ren'Py
 Ren'Py is an open source visual novel game engine that uses python for scripting.
-https://www.renpy.org/
+* [Ren'Py](https://www.renpy.org/)
 
 ## Intro to Virtual Reality development with A-Frame
 A-Frame is a js library that was originally created by Mozilla, and still backed by them.
 Only a basic knowledge of HTML is required to use it.
-* [A-Frame](https://aframe.io/0
+* [A-Frame](https://aframe.io/)
 
 ## Git conflict party
 Everyone tries to edit an existing open soruce visual novel at once.
