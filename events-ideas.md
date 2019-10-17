@@ -65,5 +65,7 @@ Introduction to open source typefaces, and why you would want to use them.
 https://www.theleagueofmoveabletype.com/
 
 ## Free your Android
-* F-Droid https://f-droid.org/en/
-* Liniage https://lineageos.org/
+* [F-Droid](https://f-droid.org/en/)
+* [Liniage](https://lineageos.org/)
+
+# Lobby Student Government
